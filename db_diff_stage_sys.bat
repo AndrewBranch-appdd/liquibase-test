@@ -1,0 +1,1 @@
+liquibase --defaultsFile src/main/resources/db/liquibase_stage.properties --referenceUrl=jdbc:oracle:thin:@ec2-52-61-23-40.us-gov-west-1.compute.amazonaws.com:1521/ORCL --referenceUsername=ACES --referencePassword=ACES2017  diff
