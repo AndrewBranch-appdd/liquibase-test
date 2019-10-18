@@ -1,1 +1,0 @@
-liquibase --defaultsFile src/main/resources/db/liquibase_ci.properties --changeLogFile src/main/resources/db/changelog/changelog-master.xml update
